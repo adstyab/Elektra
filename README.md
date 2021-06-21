@@ -1,5 +1,9 @@
 # Eccomerce-PHP-Course
 It's My PHP Course
+Anggota Kelompok :
+Putu Gede Adistya Budiasa (2001010002)
+Ni Wayan Della Wahyuni (1901010018)
+Leonardo Putra (1901010094)
 
 # How To Use it
 * clone this repository to your web server(ex: xampp,laragon,etc) directory
